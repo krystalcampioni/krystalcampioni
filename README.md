@@ -1,4 +1,4 @@
-<img align="left" width='200px' src='https://krystalcampioni.com/krystal.png'/>
+<img align="left" width='150px' src='https://krystalcampioni.com/krystal.png'/>
 
 ### Hi, I' m Krystal 👋 
 
